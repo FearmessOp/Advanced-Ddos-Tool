@@ -44,7 +44,7 @@ def print_banner():
     ██████╔╝██████╔╝╚██████╔╝███████║       ██║   ╚██████╔╝╚██████╔╝███████╗
     ╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
     {Colors.ENDC}
-    {Colors.CYAN}[+] Yapımcı: Fearmess & Pyth{Colors.ENDC}
+    {Colors.CYAN}[+] Yapımcı: Fearmess{Colors.ENDC}
     {Colors.CYAN}[+] Versiyon: 2.0 - Gelişmiş Sürüm{Colors.ENDC}
     {Colors.YELLOW}[!] Uyarı: Bu araç sadece eğitim amaçlıdır!{Colors.ENDC}
     {Colors.YELLOW}[!] Başkalarının sistemlerine izinsiz saldırı yapmak yasalara aykırıdır.{Colors.ENDC}

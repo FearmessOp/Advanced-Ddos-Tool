@@ -161,7 +161,7 @@ The user bears all responsibility for the use of this tool. The creators cannot 
 
 ## 👨‍💻 Creators
 
-- **Fearmess & Pyth**
+- **Fearmess**
 - Version: 2.0 - Advanced Version
 
 ---
