@@ -1,6 +1,6 @@
 # DDoS Tool V2
 
-![DDoS Tool Banner]([https://via.placeholder.com/800x200/1a1a1a/ff0000?text=DDoS+Tool+V2](https://cdn.glitch.global/20bb1161-dcd0-4cd9-af15-400cf2bf1f5c/20250411_0024_Fearmess%20Ddos%20Tan%C4%B1t%C4%B1m%C4%B1_simple_compose_01jrgs9vxae5p9fpc9abzhyh53%20(1).png?v=1744320400556))
+![DDoS Tool Banner](https://cdn.glitch.global/20bb1161-dcd0-4cd9-af15-400cf2bf1f5c/20250411_0024_Fearmess%20Ddos%20Tan%C4%B1t%C4%B1m%C4%B1_simple_compose_01jrgs9vxae5p9fpc9abzhyh53%20(1).png?v=1744320400556)
 
 ## 📋 Table of Contents
 
